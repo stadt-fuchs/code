@@ -1,0 +1,84 @@
+@media (min-width: 1440px)	{
+        h1 { 
+        font-size: 90px; 
+        line-height: 80px;
+        letter-spacing: 1px;
+        }
+        h2 { 
+        font-size: 45px; 
+        line-height: 45px;
+        letter-spacing: 0px;
+        }
+        h3 { 
+        font-size: 25px; 
+        line-height: 25px;
+        letter-spacing: 0.5px;
+        }
+        h4 { 
+        font-size: 15px; 
+        line-height: 15px;
+        letter-spacing: 0.5px;
+        }
+        p { 
+        font-size: 25px; 
+        line-height: 25px;
+        letter-spacing: 0px;
+        }
+    }
+    
+@media 	(min-width: 541px) and (max-width: 1439px)  {
+        h1 { 
+        font-size: 75px; 
+        line-height: 70px;
+        letter-spacing: 0px;
+        }
+        h2 { 
+        font-size: 37px; 
+        line-height: 37px;
+        letter-spacing: 0px;
+        }
+        h3 { 
+        font-size: 25px; 
+        line-height: 25px;
+        letter-spacing: 0.5px;
+        }
+        h4 { 
+        font-size: 15px; 
+        line-height: 15px;
+        letter-spacing: 0.5px;
+        }
+        p { 
+        font-size: 25px; 
+        line-height: 25px;
+        letter-spacing: 0px;
+        }
+        
+		}
+  
+@media 	(min-width: 0px) and (max-width: 540px)  {
+        h1 { 
+        font-size: 45px; 
+        line-height: 40px;
+        letter-spacing: 0px;
+        }
+        h2 { 
+        font-size: 25px; 
+        line-height: 25px;
+        letter-spacing: 0px;
+        }
+        h3 { 
+        font-size: 20px; 
+        line-height: 20px;
+        letter-spacing: 0.5px;
+        }
+        h4 { 
+        font-size: 12px; 
+        line-height: 12px;
+        letter-spacing: 0.5px;
+        }
+        p { 
+        font-size: 20px; 
+        line-height: 20px;
+        letter-spacing: 0px;
+        }
+    }
